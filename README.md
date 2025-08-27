@@ -60,5 +60,8 @@ Thanks to all the amazing YouTube creators who make learning frontend developmen
 If you have feedback, suggestions, or want to collaborate, feel free to reach out!
 emamsaimon23@gmail.com
 
+## Author 
+ <b>Emam Saimon </b>
+
 
 
