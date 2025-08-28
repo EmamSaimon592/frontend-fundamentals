@@ -18,7 +18,7 @@ Frontend Fundamentals is a collection of foundational HTML and CSS projects desi
   - Buttons
   - Cards
   - Forms
-- Simple animations and hover effects
+- Simple animations and hover effects etc.
 
 ---
 
