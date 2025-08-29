@@ -7,7 +7,7 @@ Frontend Fundamentals is a collection of foundational HTML and CSS projects desi
 
 ---
 
-##  What’s Inside
+##  What is Inside
 
 - Basic page structure using HTML5
 - Styling with CSS (inline, internal, and external)
